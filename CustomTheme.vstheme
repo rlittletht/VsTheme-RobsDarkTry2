@@ -189,25 +189,25 @@
         <Background Type="CT_RAW" Source="FF666B91" />
       </Color>
       <Color Name="ArtboardBackground">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFB5B5C9" />
       </Color>
       <Color Name="ArtboardBackgroundAlternate">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
-        <Foreground Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ArtboardBackgroundDefault">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
-        <Foreground Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ArtboardSecondaryBackground">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ArtboardSecondaryBackgroundAlternate">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ArtboardSecondaryBackgroundDefault">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Input">
         <Background Type="CT_RAW" Source="FF3B3B50" />
@@ -1418,7 +1418,7 @@
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
       <Color Name="GridHeadingBackground">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="TitleText">
         <Background Type="CT_RAW" Source="FF3B3B50" />
@@ -2524,7 +2524,7 @@
     </Category>
     <Category Name="Diagnostics" GUID="{6f4c1845-5111-4f31-b204-47cb6a466ee8}">
       <Color Name="ControlHeader">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FF9093B3" />
       </Color>
       <Color Name="AdvancedListItemSelected">
@@ -2770,10 +2770,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="GridHeadingBackground">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ScrollBar">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ScrollBarBackground">
         <Background Type="CT_RAW" Source="FF3B3B50" />
@@ -5107,11 +5107,11 @@
         <Foreground Type="CT_RAW" Source="FFF4F4FF" />
       </Color>
       <Color Name="outlining.chevron.expanded">
-        <Background Type="CT_RAW" Source="00FF0D0D" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF6C7092" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
-        <Background Type="CT_RAW" Source="00FF0D0D" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF6C7092" />
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
@@ -6447,7 +6447,7 @@
     </Category>
     <Category Name="PackageManifestEditor" GUID="{3f27d653-86e6-4a04-adb6-a35efa6c8f05}">
       <Color Name="EditorContent">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFB5B5C9" />
       </Color>
       <Color Name="TextBoxBackground">
@@ -9998,31 +9998,31 @@
         <Foreground Type="CT_RAW" Source="FF666B91" />
       </Color>
       <Color Name="VBScript Keyword">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFE9E9F9" />
       </Color>
       <Color Name="VBScript Comment">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FF57A64A" />
       </Color>
       <Color Name="VBScript Operator">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FF9093B3" />
       </Color>
       <Color Name="VBScript Number">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFB5CEA8" />
       </Color>
       <Color Name="VBScript String">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFD69D85" />
       </Color>
       <Color Name="VBScript Identifier">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFF4F4FF" />
       </Color>
       <Color Name="VBScript Function Block Start">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFE9E9F9" />
       </Color>
       <Color Name="FileLineClassificationFormat">
@@ -10806,11 +10806,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="outlining.chevron.expanded">
-        <Background Type="CT_RAW" Source="00FF0D0D" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF6C7092" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
-        <Background Type="CT_RAW" Source="00FF0D0D" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF6C7092" />
       </Color>
       <Color Name="Interactive Window Error Output">
@@ -11408,7 +11408,7 @@
         <Foreground Type="CT_RAW" Source="FF666B91" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFB5B5C9" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -11603,7 +11603,7 @@
     </Category>
     <Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
       <Color Name="GridHeadingBackground">
-        <Background Type="CT_RAW" Source="FFFF0D0D" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ListBoxBorder">
         <Background Type="CT_RAW" Source="FF666B91" />

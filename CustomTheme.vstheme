@@ -8409,7 +8409,7 @@
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFF6" />
+        <Foreground Type="CT_RAW" Source="FF00FFFF" />
       </Color>
       <Color Name="String">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8603,7 +8603,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCC7832" />
+        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8659,7 +8659,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCC7832" />
+        <Foreground Type="CT_RAW" Source="FFFFFF00" />
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8667,7 +8667,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FFFFFF00" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8735,7 +8735,7 @@
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FF00FFFF" />
       </Color>
       <Color Name="RazorTagHelperElement">
         <Background Type="CT_INVALID" Source="00000000" />

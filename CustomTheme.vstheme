@@ -8663,7 +8663,7 @@
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9373A5" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8671,27 +8671,27 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FFFFC66D" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FFFFC66D" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8711,7 +8711,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8719,19 +8719,19 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9876AA" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9876AA" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9876AA" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9155,19 +9155,19 @@
       </Color>
       <Color Name="ReSharper C++ Struct Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9373A5" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="ReSharper C++ Class Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9373A5" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="ReSharper C++ Static Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9373A5" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="ReSharper C++ Union Member Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9373A5" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="ReSharper C++ Typedef Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9203,7 +9203,7 @@
       </Color>
       <Color Name="ReSharper C++ Enum Enumerator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9876AA" />
+        <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="ReSharper C++ Global Variable Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11823,19 +11823,19 @@
       </Color>
       <Color Name="SelectedItemActive">
         <Background Type="CT_RAW" Source="FF4B6EAF" />
-        <Foreground Type="CT_RAW" Source="FF9093B3" />
+        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
       </Color>
       <Color Name="DragOverItem">
         <Background Type="CT_RAW" Source="FF3B3B50" />
-        <Foreground Type="CT_RAW" Source="FF9093B3" />
+        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
       </Color>
       <Color Name="SelectedItemInactive">
         <Background Type="CT_RAW" Source="FF0D293E" />
-        <Foreground Type="CT_RAW" Source="FF9093B3" />
+        <Foreground Type="CT_RAW" Source="FFE9E9E9" />
       </Color>
       <Color Name="Background">
         <Background Type="CT_RAW" Source="FF3B3B50" />
-        <Foreground Type="CT_RAW" Source="FF9093B3" />
+        <Foreground Type="CT_RAW" Source="FFB5B5C9" />
       </Color>
       <Color Name="Glyph">
         <Background Type="CT_RAW" Source="FF9093B3" />
@@ -11894,7 +11894,7 @@
         <Background Type="CT_RAW" Source="FF3B3B50" />
       </Color>
       <Color Name="ErrorText">
-        <Background Type="CT_RAW" Source="FF9093B3" />
+        <Background Type="CT_RAW" Source="FFB5B5C9" />
       </Color>
       <Color Name="IDCardInactiveText">
         <Background Type="CT_RAW" Source="FF9093B3" />

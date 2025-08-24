@@ -1,4 +1,4 @@
-﻿<Themes>
+<Themes>
   <Theme Name="RobsDarkTry2" GUID="{fe681cc2-c933-403c-a145-f4e16f7c5674}" BaseGUID="{7d9aab45-d658-4afa-a652-438f4997bf31}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
@@ -8557,7 +8557,7 @@
       </Color>
       <Color Name="XML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6A8759" />
+        <Foreground Type="CT_RAW" Source="FFA5C261" />
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8591,11 +8591,11 @@
       </Color>
       <Color Name="CSS Property Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFA5C261" />
+        <Foreground Type="CT_RAW" Source="FFFFFF90" />
       </Color>
       <Color Name="CSS Property Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE8BF6A" />
+        <Foreground Type="CT_RAW" Source="FF00FFFF" />
       </Color>
       <Color Name="Operator">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8611,7 +8611,7 @@
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6A8759" />
+        <Foreground Type="CT_RAW" Source="FFA5C261" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8659,7 +8659,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFF00" />
+        <Foreground Type="CT_RAW" Source="FFFFFF90" />
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8667,7 +8667,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFF00" />
+        <Foreground Type="CT_RAW" Source="FFFFFF90" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8695,7 +8695,7 @@
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6A8759" />
+        <Foreground Type="CT_RAW" Source="FFA5C261" />
       </Color>
       <Color Name="xml doc comment - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9211,7 +9211,7 @@
       </Color>
       <Color Name="ReSharper C++ String Literal">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6A8759" />
+        <Foreground Type="CT_RAW" Source="FFA5C261" />
       </Color>
       <Color Name="ReSharper C++ Integer Literal">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9223,7 +9223,7 @@
       </Color>
       <Color Name="ReSharper C++ Character Literal">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6A8759" />
+        <Foreground Type="CT_RAW" Source="FFA5C261" />
       </Color>
       <Color Name="ReSharper C++ Concept Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9243,7 +9243,7 @@
       </Color>
       <Color Name="ReSharper IL String Literal">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFA4C261" />
       </Color>
       <Color Name="ReSharper IL Constant Literal">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9731,7 +9731,7 @@
       </Color>
       <Color Name="regex - text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFA4C261" />
       </Color>
       <Color Name="regex - self escaped character">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9839,7 +9839,7 @@
       </Color>
       <Color Name="Type">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF3789B2" />
+        <Foreground Type="CT_RAW" Source="FFFFFF90" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -9983,7 +9983,7 @@
       </Color>
       <Color Name="CSS String Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFA4C261" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -10015,7 +10015,7 @@
       </Color>
       <Color Name="VBScript String">
         <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFA4C261" />
       </Color>
       <Color Name="VBScript Identifier">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -10503,7 +10503,7 @@
       </Color>
       <Color Name="axml - attribute value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6A8759" />
+        <Foreground Type="CT_RAW" Source="FFA5C261" />
       </Color>
       <Color Name="axml - cdata section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -13027,3 +13027,6 @@
     </Category>
   </Theme>
 </Themes>
+
+
+

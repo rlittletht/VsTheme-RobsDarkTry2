@@ -1,4 +1,4 @@
-<Themes>
+﻿<Themes>
   <Theme Name="RobsDarkTry2" GUID="{fe681cc2-c933-403c-a145-f4e16f7c5674}" BaseGUID="{7d9aab45-d658-4afa-a652-438f4997bf31}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
@@ -6403,7 +6403,7 @@
     </Category>
     <Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
       <Color Name="Current List Location">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FF244065" />
         <Foreground Type="CT_RAW" Source="FF9093B3" />
       </Color>
       <Color Name="Plain Text">
@@ -6415,7 +6415,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FF244065" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="urlformat">
@@ -13027,6 +13027,8 @@
     </Category>
   </Theme>
 </Themes>
+
+
 
 
 

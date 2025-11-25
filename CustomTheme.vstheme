@@ -1,4 +1,5 @@
-﻿<Themes>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Themes>
   <Theme Name="RobsDarkTry2" GUID="{fe681cc2-c933-403c-a145-f4e16f7c5674}" BaseGUID="{7d9aab45-d658-4afa-a652-438f4997bf31}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
@@ -2683,7 +2684,9 @@
       <Color Name="PopupText">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
-    </Category>
+    <Color Name="PopupHyperlink">
+        <Background Type="CT_RAW" Source="FF83BEEB" />
+      </Color></Category>
     <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
       <Color Name="AutoHideTabBorder">
         <Background Type="CT_RAW" Source="FF3B3B50" />
@@ -7245,7 +7248,9 @@
       <Color Name="ControlStrokeTransparent">
         <Background Type="CT_RAW" Source="00F4F4FF" />
       </Color>
-    </Category>
+    <Color Name="AccentFillSenary">
+        <Background Type="CT_RAW" Source="1F9184EE" />
+      </Color></Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
         <Background Type="CT_RAW" Source="FFE9E9F9" />
@@ -7307,7 +7312,33 @@
       <Color Name="StatusBarTextFillDisabled">
         <Background Type="CT_RAW" Source="B2F4F4FF" />
       </Color>
-    </Category>
+    <Color Name="CaptionControlCloseFillPrimary">
+        <Background Type="CT_RAW" Source="FFC42B1C" />
+      </Color><Color Name="CaptionControlCloseFillSecondary">
+        <Background Type="CT_RAW" Source="E6C42B1C" />
+      </Color><Color Name="CaptionControlCloseTextFillPrimary">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color><Color Name="CaptionControlCloseTextFillSecondary">
+        <Background Type="CT_RAW" Source="B3FFFFFF" />
+      </Color><Color Name="StatusBarBackgroundFillBuilding">
+        <Background Type="CT_RAW" Source="FF3F3682" />
+      </Color><Color Name="StatusBarBackgroundFillDebugging">
+        <Background Type="CT_RAW" Source="FF7A2101" />
+      </Color><Color Name="StatusBarBackgroundFillRest">
+        <Background Type="CT_RAW" Source="4D000000" />
+      </Color><Color Name="StatusBarBackgroundFillSolutionLoading">
+        <Background Type="CT_RAW" Source="FF003B6A" />
+      </Color><Color Name="StatusBarControlFillSecondary">
+        <Background Type="CT_RAW" Source="20FFFFFF" />
+      </Color><Color Name="StatusBarTextFillBuilding">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color><Color Name="StatusBarTextFillDebugging">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color><Color Name="StatusBarTextFillRest">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color><Color Name="StatusBarTextFillSolutionLoading">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color></Category>
     <Category Name="SqlResultsGrid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
       <Color Name="Header Row">
         <Background Type="CT_RAW" Source="FF141E3B" />
@@ -11401,7 +11432,97 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-    </Category>
+    <Color Name="CppAttributesSyntacticTokenFormat">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color><Color Name="MarkerFormatDefinition/CppHighlightedDefinition">
+        <Background Type="CT_RAW" Source="FF48830E" />
+        <Foreground Type="CT_RAW" Source="FFC0D3AD" />
+      </Color><Color Name="ReSharper ShaderLab Disabled Shader Keyword">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA9A9A9" />
+      </Color><Color Name="ReSharper Unity Performance Critical Line Marker">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF7526" />
+      </Color><Color Name="ReSharper SQL Bad Character">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF0000" />
+      </Color><Color Name="ReSharper SQL Type">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
+      </Color><Color Name="ReSharper SQL Procedure">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+      </Color><Color Name="ReSharper SQL Parameter">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+      </Color><Color Name="ReSharper SQL Variable">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+      </Color><Color Name="ReSharper SQL Label">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+      </Color><Color Name="ReSharper SQL Local Alias">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+      </Color><Color Name="ReSharper SQL Table">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color><Color Name="ReSharper SQL Column">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+      </Color><Color Name="ReSharper SQL Schema">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color><Color Name="ReSharper SQL Database Object">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+      </Color><Color Name="ReSharper SQL Synthetic Entity">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFC66D" />
+      </Color><Color Name="ReSharper SQL External Tool">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+      </Color><Color Name="ReSharper SQL Outer Query Column">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9876AA" />
+      </Color><Color Name="ReSharper Unity Expensive Method Invocation">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF7526" />
+      </Color><Color Name="ReSharper Unity Expensive Null Comparison">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF7526" />
+      </Color><Color Name="ReSharper Unity Expensive Camera Main Usage">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF7526" />
+      </Color><Color Name="ReSharper Unity Inefficient Multidimensional Array Usage">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF7526" />
+      </Color><Color Name="ReSharper Unity Inefficient Multiplication Order">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF7526" />
+      </Color><Color Name="ReSharper C++ Constant Identifier">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFEE82EE" />
+      </Color><Color Name="Expression Hover Highlight">
+        <Background Type="CT_RAW" Source="FFFFE162" />
+        <Foreground Type="CT_RAW" Source="FF010000" />
+      </Color><Color Name="ReSharper ShaderLab Implicitly Enabled Shader Keyword">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color><Color Name="ReSharper ShaderLab Enabled Shader Keyword">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color><Color Name="ReSharper AI Inplace Suggestion">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color><Color Name="ReSharper Unity Implicitly Used Identifier">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color><Color Name="ReSharper C++ Preprocessor Inactive Branch V2">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color></Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Visible Whitespace">
         <Background Type="CT_INVALID" Source="00000000" />
